@@ -1,4 +1,96 @@
----
+/* ---------------------------------------------
+   Minimal Theme - Custom Styles for Erin Webreck
+   Place this in assets/css/style.scss
+---------------------------------------------- */
 
-@import "{{ minimal }}";
+/* Body styling */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
 
+/* Wrapper to center content */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* -----------------------
+   Header
+------------------------ */
+header h1 {
+  font-size: 2em;
+  margin-bottom: 0.2em;
+}
+
+/* Logo styling */
+header img {
+  max-width: 120px; /* Resize your logo */
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   Navigation
+------------------------ */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+nav li {
+  margin-bottom: 0.5em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0366d6;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #014c8c;
+  text-decoration: underline;
+}
+
+/* Optional: Sidebar layout */
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 100%;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.content-with-sidebar {
+  margin-left: 220px; /* space for sidebar */
+}
+
+/* -----------------------
+   Footer
+------------------------ */
+footer {
+  font-size: 0.85em;
+  margin-top: 3em;
+  text-align: center;
+  color: #666;
+}
+
+footer a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
