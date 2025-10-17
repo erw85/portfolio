@@ -11,3 +11,13 @@ I currently work at LexisNexis Legal and Professional in an innovative role comb
 
 Explore my site to learn more about my experience, education, teaching, and certifications, or to get in touch for collaborations and professional inquiries.
 
+---
+
+<p style="text-align:center;">
+  <a href="https://www.linkedin.com/in/erinwebreck/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  </a>
+</p>
+
+
+
