@@ -7,6 +7,7 @@ title: Education
 
 <h2 style="color:#244d8f;">University of Central Florida — Orlando, FL</h2>
 **PhD Candidate in Texts & Technology**
+Digital Humanities specialization
 
 ---
 
@@ -18,10 +19,10 @@ with American University School of International Service
 
 <h2 style="color:#244d8f;">Humboldt-Universität zu Berlin — Berlin, Germany</h2>
 **Junior Year Abroad**  
-Studied German Literature and Art History  
+German Literature and Art History  
 
 ---
 
 <h2 style="color:#244d8f;">The George Washington University — Washington, DC</h2>
 **BA with Special Departmental Honors**  
-in German Language and Literature  
+German Language and Literature  
