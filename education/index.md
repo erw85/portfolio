@@ -1,14 +1,27 @@
 ---
 layout: default
-title: Projects
+title: Education
 ---
 
-# Projects
+# Education
 
-## Project 1
-- Project Description
-- Technologies Used
+## University of Central Florida — Orlando, FL  
+**PhD Candidate in Texts & Technology**
 
-## Project 2
-- Project Description
-- Technologies Used
+---
+
+## American University – Washington College of Law — Washington, DC  
+**JD/MA Dual Degree**  
+with American University School of International Service  
+
+---
+
+## Humboldt-Universität zu Berlin — Berlin, Germany  
+**Junior Year Abroad**  
+Studied German Literature and Art History  
+
+---
+
+## The George Washington University — Washington, DC  
+**BA with Special Departmental Honors**  
+in German Language and Literature  
