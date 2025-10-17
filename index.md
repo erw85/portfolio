@@ -3,6 +3,6 @@ layout: default
 title: Hello.
 ---
 
-# Home
+# Welcome.
 
 This is my portfolio homepage.

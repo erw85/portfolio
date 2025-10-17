@@ -6,12 +6,13 @@ title: Erin Webreck
 description: 
 
 nav:
-  - title: Home
-    url: /
+
   - title: Experience
     url: /experience
   - title: Education
     url: /education
+  - title: Certifications/Licenses
+    url: /certifications
 
 logo: /assets/images/logo.jpeg
 
