@@ -6,8 +6,12 @@ title: Experience
 # Experience
 
 <h2 style="color:#244d8f;">LexisNexis — New York, NY</h2>
+
+**Lead, Data Discovery and Enrichment**
+*August 2025 - Present*
+
 **Manager, Product and Content Initiatives**  
-*October 2021 – Present*  
+*October 2021 – July 2025*  
 
 **Operations Manager, Practical Guidance (North American Editorial Operations)**  
 *September 2019 – September 2021*  
