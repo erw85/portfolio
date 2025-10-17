@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Erin Webreck
-description: T&T sample site for intro
+description: 
 
 nav:
   - title: Home
