@@ -5,24 +5,28 @@ title: Education
 
 # Education
 
-<h2 style="color:#244d8f;">University of Central Florida — Orlando, FL</h2>
-**PhD Candidate in Texts & Technology**
-Digital Humanities specialization
+<h2 style="color:#244d8f;">University of Central Florida</h2>
+<p style="font-size:0.9em; margin-top:-0.2em;">Orlando, FL</p>
+**PhD student in Texts & Technology**
 
 ---
 
-<h2 style="color:#244d8f;">American University – Washington College of Law — Washington, DC</h2>
+<h2 style="color:#244d8f;">American University – Washington College of Law</h2>
+<p style="font-size:0.9em; margin-top:-0.2em;">Washington, DC</p>
 **JD/MA Dual Degree**  
 with American University School of International Service  
 
 ---
 
-<h2 style="color:#244d8f;">Humboldt-Universität zu Berlin — Berlin, Germany</h2>
+<h2 style="color:#244d8f;">Humboldt-Universität zu Berlin</h2>
+<p style="font-size:0.9em; margin-top:-0.2em;">Berlin, Germany</p>
 **Junior Year Abroad**  
-German Literature and Art History  
+Studied German Literature and Art History  
 
 ---
 
-<h2 style="color:#244d8f;">The George Washington University — Washington, DC</h2>
+<h2 style="color:#244d8f;">The George Washington University</h2>
+<p style="font-size:0.9em; margin-top:-0.2em;">Washington, DC</p>
 **BA with Special Departmental Honors**  
-German Language and Literature  
+in German Language and Literature
+
