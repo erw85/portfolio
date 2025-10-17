@@ -14,14 +14,6 @@ Explore my site to learn more about my experience, education, teaching, certific
 ---
 
 
----
-
----
-
----
-
----
-
 <p style="text-align:center;">
   <!-- LinkedIn icon -->
   <a href="https://www.linkedin.com/in/erinwebreck/" target="_blank" style="margin-right:15px;">
