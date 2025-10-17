@@ -20,13 +20,9 @@ Explore my site to learn more about my experience, education, teaching, certific
 
 ---
 
-<p style="text-align:center;">
-  <!-- CV download link with PDF icon -->
-  <a href="assets/docs/ErinWebreck_CV.pdf" target="_blank" style="margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="PDF" width="30" height="30" style="vertical-align:middle; margin-right:5px; transition: filter 0.2s;">
-    Download my CV
-  </a>
+---
 
+<p style="text-align:center;">
   <!-- LinkedIn icon -->
   <a href="https://www.linkedin.com/in/erinwebreck/" target="_blank" style="margin-right:15px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="transition: filter 0.2s;">
@@ -45,7 +41,10 @@ Explore my site to learn more about my experience, education, teaching, certific
 
 <style>
   p a img:hover {
-    filter: brightness(0
+    filter: brightness(0.7);
+  }
+</style>
+
 
 
 
