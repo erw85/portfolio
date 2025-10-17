@@ -13,11 +13,31 @@ Explore my site to learn more about my experience, education, teaching, certific
 
 ---
 
+
 <p style="text-align:center;">
-  <a href="https://www.linkedin.com/in/erinwebreck/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  <!-- LinkedIn icon -->
+  <a href="https://www.linkedin.com/in/erinwebreck/" target="_blank" style="margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="transition: filter 0.2s;">
+  </a>
+
+  <!-- Email icon -->
+  <a href="mailto:er952199@ucf.edu" style="margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mail-dot-ru.svg" alt="Email" width="30" height="30" style="transition: filter 0.2s;">
+  </a>
+
+  <!-- GitHub icon -->
+  <a href="https://github.com/erw85" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="transition: filter 0.2s;">
   </a>
 </p>
+
+<style>
+  p a img:hover {
+    filter: brightness(0.7);
+  }
+</style>
+
+
 
 
 
