@@ -74,3 +74,6 @@ Edited *News & Analysis* environmental law journal. Developed and administered s
 - Lean Six Sigma Green Belt, LexisNexis (2018)  
 - Certified Agile Associate, LexisNexis (2021)
 
+---
+
+[📄 Download CV (PDF)](/assets/Erin_Webreck_CV.pdf){:target="_blank" .btn}
