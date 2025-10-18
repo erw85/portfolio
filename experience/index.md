@@ -7,11 +7,8 @@ title: Experience
 
 <h2 style="color:#244d8f;">LexisNexis</h2>
 <p style="font-size:0.9em; margin-top:-0.2em;">New York, NY</p>
-**Lead, Data Discovery and Enrichment**
-*July 2025 - Present*
-
 **Manager, Product and Content Initiatives**  
-*October 2021 – July 2025*  
+*October 2021 – Present*  
 
 **Operations Manager, Practical Guidance (North American Editorial Operations)**  
 *September 2019 – September 2021*  
@@ -29,4 +26,6 @@ title: Experience
 ---
 
 <h2 style="color:#244d8f;">Environmental Law Institute</h2>
-<p style="font-size:0.9em; margin-top:-0.2em;">Washington
+<p style="font-size:0.9em; margin-top:-0.2em;">Washington, DC</p>
+**Associate Editor, Director of Seminars**  
+*August 2005 – May 2014*
