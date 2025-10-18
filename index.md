@@ -5,11 +5,11 @@ title: Hello.
 
 
 
-Hello! I’m Erin, a PhD student in Texts & Technology at the University of Central Florida, where I research the intersections of law, language, and technology.  
+I’m Erin Webreck, a PhD student in Texts & Technology at the University of Central Florida, where my research focuses on how technology is reshaping the practice of law and access to justice.
 
-I currently work at LexisNexis Legal and Professional developing large language models to serve legal professionals. 
+I bring nearly two decades of experience in legal publishing and product development, most recently as Lead of Data Discovery and Enrichment at LexisNexis. My work has centered on building digital tools that help legal professionals work smarter and more efficiently.
 
-Explore my site to learn more about my experience, education, teaching, certifications, and publications. You can contact me via the links below.
+Before moving into legal technology, I earned a JD/MA dual degree from American University’s Washington College of Law and School of International Service. I’ve also taught college writing at American University and hold certifications as a PMP, Lean Six Sigma Green Belt, and Agile Associate.
 
 ---
 
