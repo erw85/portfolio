@@ -17,6 +17,8 @@ nav:
     url: /teaching
   - title: Publications
     url: /publications
+  - title: CV
+    url: /cv
 
 logo: /assets/images/logo.jpeg
 

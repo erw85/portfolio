@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 **ERIN R. WEBRECK**
 
 m: 301-651-9933
