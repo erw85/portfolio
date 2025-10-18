@@ -7,9 +7,9 @@ title: Hello.
 
 Hello! I’m Erin, a PhD student in Texts & Technology at the University of Central Florida, where I research the intersections of law, language, and technology.  
 
-I currently work at LexisNexis Legal and Professional in an innovative role combining editorial expertise, legal knowledge, and technology skills to develop large language models to serve legal professionals.
+I currently work at LexisNexis Legal and Professional developing large language models to serve legal professionals. 
 
-Explore my site to learn more about my experience, education, teaching, certifications, and publications. You can contact me via my LinkedIn profile below.
+Explore my site to learn more about my experience, education, teaching, certifications, and publications. You can contact me via the links below.
 
 ---
 
