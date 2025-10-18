@@ -28,4 +28,4 @@ title: Experience
 <h2 style="color:#244d8f;">Environmental Law Institute</h2>
 <p style="font-size:0.9em; margin-top:-0.2em;">Washington, DC</p>
 **Associate Editor, Director of Seminars**<br>
-*August 2005 – May 2014*
+*August 2006 – May 2014*
