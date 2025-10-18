@@ -5,4 +5,4 @@
 **Adjunct Professor, College Writing Program**  
 *August 2008 – December 2009*  
 
-I instructed college freshmen in an introductory academic writing course, teaching them how to construct effective arguments, conduct research, and evaluate sources for accuracy, reliability, and appropriateness.
+As an adjunct professor in AU's College Writing Program, I instructed freshmen in an introductory academic writing course, teaching them how to construct effective arguments, conduct research, and evaluate sources for accuracy, reliability, and appropriateness.

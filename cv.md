@@ -3,6 +3,8 @@ layout: default
 title: CV
 ---
 
+# CV
+
 ## Experience
 
 ### **LexisNexis**, New York, NY  
