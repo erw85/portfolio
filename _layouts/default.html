@@ -27,27 +27,27 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <!-- ✅ Vertical Navigation -->
-        <nav style="margin: 30px 0;">
-          <ul style="list-style: none; padding: 0; margin: 0;">
-            <li style="margin: 10px 0;">
+        <nav style="margin: 30px 0; display: inline-block; text-align: left;">
+          <ul style="list-style: none; padding-left: 0; margin: 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/' | relative_url }}" style="color:#244d8f; text-decoration:none;">Home</a>
             </li>
-            <li style="margin: 10px 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/experience' | relative_url }}" style="color:#244d8f; text-decoration:none;">Experience</a>
             </li>
-            <li style="margin: 10px 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/education' | relative_url }}" style="color:#244d8f; text-decoration:none;">Education</a>
             </li>
-            <li style="margin: 10px 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/certifications' | relative_url }}" style="color:#244d8f; text-decoration:none;">Certifications</a>
             </li>
-            <li style="margin: 10px 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/publications' | relative_url }}" style="color:#244d8f; text-decoration:none;">Publications</a>
             </li>
-            <li style="margin: 10px 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/teaching' | relative_url }}" style="color:#244d8f; text-decoration:none;">Teaching</a>
             </li>
-            <li style="margin: 10px 0;">
+            <li style="margin: 15px 0; line-height: 1.5;">
               <a href="{{ '/cv' | relative_url }}" style="color:#244d8f; text-decoration:none;">CV</a>
             </li>
           </ul>
@@ -77,7 +77,8 @@
         {% endif %}
       </header>
 
-      <section>
+      <!-- ✅ Add spacing so content doesn't crowd nav -->
+      <section style="margin-top: 40px;">
         {{ content }}
       </section>
 
