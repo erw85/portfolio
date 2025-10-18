@@ -3,11 +3,6 @@ layout: default
 title: CV
 ---
 
----
-layout: default
-title: CV
----
-
 ## Experience
 
 ### **LexisNexis**, New York, NY  
@@ -67,8 +62,8 @@ Edited *News & Analysis* environmental law journal. Developed and administered s
 
 ## Publications
 
-> **“The Challenge of Battling Privatization: A Case Study of Swedish Water Companies.”**  
-> *Sustainable Development Law and Policy Journal*, Vol. V, Issue 1 (Winter 2005).
+**“The Challenge of Battling Privatization: A Case Study of Swedish Water Companies.”**  
+*Sustainable Development Law and Policy Journal*, Vol. V, Issue 1 (Winter 2005).
 
 ---
 
