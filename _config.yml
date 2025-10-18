@@ -13,10 +13,10 @@ nav:
     url: /education
   - title: Certifications
     url: /certifications
-  - title: Teaching
-    url: /teaching
   - title: Publications
     url: /publications
+    title: Teaching
+    url: /teaching
   - title: CV
     url: /cv
 
