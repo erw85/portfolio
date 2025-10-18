@@ -8,15 +8,6 @@ layout: default
 title: CV
 ---
 
-# Erin R. Webreck
-
-📞 301-651-9933  
-📍 Orlando, FL  
-🔗 [linkedin.com/in/erinwebreck](https://linkedin.com/in/erinwebreck){:target="_blank"}  
-✉️ er952199@ucf.edu  
-
----
-
 ## Experience
 
 ### **LexisNexis**, New York, NY  
