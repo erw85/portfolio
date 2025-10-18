@@ -5,5 +5,20 @@ plugins:
 title: Erin Webreck
 description: 
 
+nav:
+
+  - title: Experience
+    url: /experience
+  - title: Education
+    url: /education
+  - title: Certifications
+    url: /certifications
+  - title: Publications
+    url: /publications
+  - title: Teaching
+    url: /teaching
+  - title: CV
+    url: /cv
+
 logo: /assets/images/logo.jpeg
 
