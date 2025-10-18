@@ -5,5 +5,4 @@
 **Adjunct Professor, College Writing Program**  
 *August 2008 – December 2009*  
 
-Instructed college freshmen in introductory academic writing course.  
-Taught argumentation, research methods, and evaluation of sources for accuracy, reliability, and appropriateness.
+I instructed college freshmen in an introductory academic writing course, teaching them how to construct effective arguments, conduct research, and evaluate sources for accuracy, reliability, and appropriateness.
