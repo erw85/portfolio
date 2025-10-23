@@ -7,4 +7,4 @@
 
 As an adjunct professor in AU's College Writing Program, I instructed freshmen in an introductory academic writing course, teaching them how to construct effective arguments, conduct research, and evaluate sources for accuracy, reliability, and appropriateness.
 
-<a href="/assets/Erin_AU_CWP_F2008_syllabus.pdf" target="_blank">📄 Syllabus: Haunted America (PDF)</a>
+<a href="/assets/AU_CWP_F2008_syllabus.pdf" target="_blank">📄 Syllabus: Haunted America (PDF)</a>
